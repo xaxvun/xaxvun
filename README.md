@@ -40,7 +40,7 @@
   - 담당 : 개발 총괄, AI/ML, BackEnd 개발 <br>
   - 인원 / 기간 : 4인 / 2025.04 ~ 2025.11 <br>
   - 주체 / 상격 : 2025 한이음 드림업 / 은상
-  - Repository : https://github.com/xaxvun/25_HC225 <br>
+  - Repository : https://github.com/xaxvun/25_HC225 , https://github.com/Eyes-of-Breath<br>
   
 ## Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https:///velog.io/@you413)](https://velog.io/@you413)

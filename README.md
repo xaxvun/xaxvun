@@ -22,10 +22,11 @@
 
 ## Projects
 
-### 생성형 AI를 활용한 자산운용보고서 자동생성
+### 생성형 AI를 활용한 자산운용보고서 자동생성 🏆
   '기업에게는 자산운용보고서의 작성을 통해 시간 및 비용적 효율을 높여주며 고객에게는 펀드투자 결정의 도움을 주는 서비스'
   - 담당 : 경제 뉴스 데이터를 수집, T5를 활용한 번역과 KoBART를 활용한 요약 작업, BackEnd 개발 <br>
   - 인원 / 기간 : 5인 / 2024.04 ~ 2024.08 <br>
+  - 주체 / 상격 : 2024 한이음 드림업 / 입상
   - Repository : https://github.com/genmu5/2024_ForAsset_project <br>
 
 ### 재난 상황시 커뮤니티 마비 방지를 위한 대용량 트래픽 처리 시스템 
@@ -34,10 +35,11 @@
   - 인원 / 기간 : 4인 / 2024.09 ~ 2024.11 <br>
   - Repository : https://github.com/genmu5/2024_kpaas_high-traffic-handling <br>
 
-### 비전 트랜스포머 모델을 활용한 흉부 방사선 폐 질환 진단 서비스
+### 비전 트랜스포머 모델을 활용한 흉부 방사선 폐 질환 진단 서비스 🏆
   'Vision Transformer와 Convolutional Neural Network(CNN) 계열 모델을 적용하여 흉부 질환 예측의 가능성을 탐구' <br>
   - 담당 : 개발 총괄, AI/ML, BackEnd 개발 <br>
   - 인원 / 기간 : 4인 / 2025.04 ~ 2025.11 <br>
+  - 주체 / 상격 : 2025 한이음 드림업 / 은상
   - Repository : https://github.com/xaxvun/25_HC225 <br>
   
 ## Contacts

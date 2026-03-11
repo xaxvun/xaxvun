@@ -41,6 +41,7 @@
   - 인원 / 기간 : 4인 / 2025.04 ~ 2025.11 <br>
   - 주체 / 상격 : 2025 한이음 드림업 / 은상
   - Repository : https://github.com/xaxvun/25_HC225 , https://github.com/Eyes-of-Breath<br>
+  - Notion : https://second-cantaloupe-0a3.notion.site/2422c4260ea98042854cdfb11b914c89?pvs=74 <br>
   
 ## Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https:///velog.io/@you413)](https://velog.io/@you413)
